@@ -15,13 +15,16 @@ body {
   color: white;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.btn-primary {
+  background-color: #22668a;
 }
 
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
 
-/* color pallete */
+/* color pallete  */
+
 .color-cream-text {
   color: #B980F0 !important;
 }
